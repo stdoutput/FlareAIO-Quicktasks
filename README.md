@@ -1,3 +1,4 @@
+![](https://www.flarebots.com/images/logo.png)
 # FlareAIO-Quicktasks
 Quicktasks Documentation for FlareAIO 3.5.x
 
